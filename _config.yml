@@ -91,5 +91,5 @@ deploy:
   type: git
   repo: https://github.com/MagicSong/magicsong.github.io.git
   branch: master
-  message: 初始化评论系统
+  message: 主题修改
 
